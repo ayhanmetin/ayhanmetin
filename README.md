@@ -2,7 +2,6 @@
 
 ## A passionate frontend developer from Germany
 
-- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at
   [ayhanmetin.eu](https://ayhanmetin.eu)
 - 📫 How to reach me:
