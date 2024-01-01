@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ayhan Metin
 
-## A passionate frontend developer from Germany
+## Enthusiast in Web Applications and AI, skilled in frontend development, quality assurance, and agile practices.
 
 - 👨‍💻 All of my projects are available at
   [ayhanmetin.eu](https://ayhanmetin.eu)
