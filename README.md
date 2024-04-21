@@ -5,7 +5,6 @@
   [ayhanmetin.eu](https://ayhanmetin.eu)
 - 📫 How to reach me:
   **ayhanmetinde@gmail.com**
-- I share my progress and experiences learning German at **[almancakelime.com](https://almancakelime.com)**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayhanmet/)
